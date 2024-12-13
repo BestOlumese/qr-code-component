@@ -20,10 +20,10 @@ body {
 
 .container {
     background-color: var(--white);
-    width: 300px;
+    width: 295px;
     padding: 15px;
     margin: auto;
-    border-radius: 10px;
+    border-radius: 15px;
     position: absolute;
     transform: translate(-50%, -50%);
     top: 50%;
@@ -39,10 +39,11 @@ body {
 .text-container {
     text-align: center;
     margin-top: 15px;
+    margin-bottom: 20px;
 }
 
 .text-container h1 {
-    font-size: 19px;
+    font-size: 22px;
     font-weight: 700;
     color: var(--slate-900);
 }
